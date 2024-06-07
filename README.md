@@ -1,3 +1,20 @@
+# My Go-To React Project Boilerplate
+
+This is my personal React project boilerplate, designed to be a starting point for projects that utilize React Router 6 and other commonly needed libraries. It streamlines the setup process and ensures that you have a solid foundation to build upon.
+
+## Included Libraries
+
+- **Axios**: For making HTTP requests.
+- **Bootstrap**: For responsive UI design.
+- **Firebase**: For backend services like authentication and database.
+- **Framer Motion**: For animations.
+- **gh-pages**: For deploying to GitHub Pages.
+- **MirageJS**: For API mocking.
+- **React Bootstrap**: Bootstrap components for React.
+- **React Confetti**: For confetti animations.
+- **React Icons**: For including icons in your React project.
+- **SweetAlert2**: For beautiful alerts and popups.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
