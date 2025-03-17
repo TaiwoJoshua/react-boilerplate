@@ -1,4 +1,4 @@
-import React from 'react';
+import React from "react";
 
 // External Controller ( Redirect to Offline Page )
 
@@ -19,13 +19,6 @@ import React from 'react';
 //     };
 // }, [navigate, path]);
 
-
-function Offline() {
-    return (
-        <section className='offline'>
-            Offline
-        </section>
-    );
+export default function Offline() {
+  return <section className="offline">Offline</section>;
 }
-
-export default Offline;

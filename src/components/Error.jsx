@@ -1,7 +1,5 @@
 import React from "react";
 
-function Error() {
+export default function Error() {
   return <section className="notfound internal-error">Error</section>;
 }
-
-export default Error;

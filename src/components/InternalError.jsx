@@ -1,11 +1,5 @@
-import React from 'react';
+import React from "react";
 
-function InternalError() {
-    return (
-        <section className='notfound internal-error'>
-            Internal Error
-        </section>
-    );
+export default function InternalError() {
+  return <section className="notfound internal-error">Internal Error</section>;
 }
-
-export default InternalError;
